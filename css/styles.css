@@ -127,6 +127,21 @@ p{
     margin-top: 50px;
   }
 
+  .card-header{
+    padding-top:3px;
+    padding-bottom: 3px;
+    margin-bottom: 0;
+  }
+
+  .card-body{
+    padding-top: 2px;
+    padding-bottom: 10px;
+  }
+
+  .card{
+    margin-top: 30px;
+  }
+
 }
 
 
