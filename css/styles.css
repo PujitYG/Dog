@@ -1,0 +1,211 @@
+#title{
+  background-color: #ff4c68;
+}
+
+ .container-fluid{
+   padding: 3% 15%;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-weight:bolder;
+  color: white;
+}
+
+#navbar-brand1{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color:white;
+}
+
+#nab{
+  padding: 0 18px;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+}
+
+#nab:hover{
+  color:black;
+}
+
+#navbar1{
+  padding-left:0;
+  padding-right: 0;
+  margin-bottom: 20px;
+}
+
+.Download-button{
+  margin: 3% 5% 0 5%;
+}
+
+
+
+.title-image{
+  width: 60%;
+  transform: rotate(0deg);
+}
+
+#features{
+  text-align:center;
+  background-color: white;
+}
+
+h3{
+  font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.5;
+  padding: 0 30px;
+  color: grey;
+}
+
+
+.icon{
+  color:#ff4c68;
+  padding: 20px 0;
+}
+
+.image-class{
+  text-align: center;
+  overflow: hidden;
+  height: 400px;
+}
+
+.title-image{
+  padding: 20px 0;
+}
+
+#testimonials{
+    font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+@media(max-width: 1000px)
+{
+  .image-class{
+    display: none;
+  }
+
+  .text-area{
+    text-align: center;
+    padding: 0 10%;
+  }
+
+  h1{
+    line-height: 1.5;
+    font-size: 2rem;
+  }
+
+  #press{
+    display: none;
+  }
+
+#test{
+    line-height:1.8rem;
+    font-size:1.4rem;
+    font-weight: normal;
+  }
+
+  #cta-text1{
+    line-height: 1.5;
+    font-size: 2rem;
+    font-weight: normal;
+  }
+
+  .card-feat{
+    margin-bottom: 30px;
+  }
+
+  #pricing{
+    margin-top: 50px;
+  }
+
+}
+
+
+
+.image{
+  border-radius: 100%;
+  width: 15%;
+  margin: 10px;
+}
+
+.test-image{
+  border-radius: 100%;
+  width: 20%;
+  margin:2%;
+}
+
+.carousel-inner{
+  padding: 3% 15%;
+}
+
+#press{
+  padding:0 15%;
+  background-color:#ff4c68;
+  text-align: center;
+}
+
+.press-image{
+  width: 15%;
+  margin: 3%;
+}
+
+.testimonial-text{
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 1.2;
+  font-size: 3rem;
+  font-weight:bolder;
+  color: white;
+  padding: 0 10%;
+}
+
+#pricing{
+  text-align: center;
+}
+
+
+
+.btn-spl{
+  border:1px solid #ff4c68;
+}
+
+.btn-spl:hover{
+  background-color: #ff4c68;
+}
+
+.btn-ntspl{
+  background-color: #ff4c68;
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+.cta-text{
+  color: white;
+  font-size: 3rem;
+  padding: 0  10%;
+}
+
+.cta-row{
+  padding-top:5%;
+  padding-bottom: 5%;
+}
+
+#footer{
+  text-align: center;
+  padding: 5% 15%;
+}
+
+.f-fab{
+  padding-left: 10px;
+}
